@@ -1,5 +1,6 @@
 # Hi there 🤟
 
+<img src='https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif' style='width: 100%'><br><br>
 I'm Taha PAKSU 👋, a coder like most of you, who makes his and his family's living 💰 from writing code for a cash register company called Profilo Payment Systems. 
 
 I write mostly PHP, C# (and .net core) and javascript (vanilla, jquery, vue) about 15+ years ⚒ (yes I feel like getting old 🎅 when I saw younger and better profiles here), and I love writing apps/packages on Laravel framework (👨‍💻 less than 40 keypresses `laravel new application --auth`, you have a website ready with an authentication system - Oh 😱 forgot the database migrations, make it 100 :P). 
