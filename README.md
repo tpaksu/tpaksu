@@ -17,3 +17,6 @@ Don't hold yourself back to star my repositories🧿. I know some don't deserve 
 - 🦅 [CodeCanyon](https://codecanyon.net/user/tpaksu/portfolio)
 - 📗 [HackerRank](https://codecanyon.net/user/tpaksu/portfolio)
 - 📚 [StackOverflow](https://stackoverflow.com/users/916000/taha-paksu)
+
+
+![tpaksu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tpaksu&show_icons=true)
