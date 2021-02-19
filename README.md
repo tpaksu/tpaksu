@@ -18,5 +18,5 @@ Don't hold yourself back to star my repositories🧿. I know some don't deserve 
 - 📗 [HackerRank](https://www.hackerrank.com/tpaksu)
 - 📚 [StackOverflow](https://stackoverflow.com/users/916000/taha-paksu)
 
+![Tpaksu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpaksu&show_icons=true&theme=dark)
 
-![tpaksu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tpaksu&show_icons=true)
